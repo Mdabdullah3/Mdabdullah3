@@ -14,8 +14,8 @@
 <h3>🏷️ My name is <b>Md Abdullah</b></h3>
 <h3>🎓 I'm a student at Bhola Polytechnic Institute </h3>
 <h3>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/Mdabdullah3?tab=repositories">GitHub</a></h3>
+<h3>🎂 I am Full Stack Developer - MERN </h3>
 <h3>🌐 I'm living in Bhola, Bangladesh </h3>
-<h3>🎂 I was Born on 10th May, 2003 </h3>
 <h3> 📫 How to reach me  mdabdullah120469@gmail.com
  </h3>
 </samp>
