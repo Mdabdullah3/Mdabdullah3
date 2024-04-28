@@ -16,7 +16,7 @@
 <h3>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/Mdabdullah3?tab=repositories">GitHub</a></h3>
 <h3>🎂 I am Full Stack Developer - MERN </h3>
 <h3>🌐 I'm living in Bhola, Bangladesh </h3>
-<h3> 📫 How to reach me  mdabdullah120469@gmail.com
+<h3> 📫 How to reach me  mdabdullah.dev@gmail.com
  </h3>
 </samp>
 </div>
