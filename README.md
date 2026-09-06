@@ -123,17 +123,14 @@ Built multi‑vendor eCommerce & blog platforms from scratch (readyhow.com, etoi
 <img src="https://github-profile-trophy.vercel.app/?username=Mdabdullah3&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
 </div>
 
-<details>
-<summary><b>🐍 Contribution Snake</b> — click to view setup note</summary>
-<br/>
+### 🐍 Contribution Snake
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mdabdullah3/Mdabdullah3/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mdabdullah3/Mdabdullah3/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Mdabdullah3/Mdabdullah3/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
-A ready-to-use GitHub Action (<code>.github/workflows/snake.yml</code>) is included to generate an animated snake that "eats" your contribution graph. After you push it and let the action run once, add this to your README:
-
-```md
-<img src="https://raw.githubusercontent.com/Mdabdullah3/Mdabdullah3/output/github-contribution-grid-snake.svg" width="100%"/>
-```
-
-</details>
 
 <img src="assets/divider.svg" width="100%"/>
 
