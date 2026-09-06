@@ -130,7 +130,7 @@ Built multi‑vendor eCommerce & blog platforms from scratch (readyhow.com, etoi
 A ready-to-use GitHub Action (<code>.github/workflows/snake.yml</code>) is included to generate an animated snake that "eats" your contribution graph. After you push it and let the action run once, add this to your README:
 
 ```md
-<img src="https://github.com/Mdabdullah3/Mdabdullah3/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Mdabdullah3/Mdabdullah3/output/github-contribution-grid-snake.svg" width="100%"/>
 ```
 
 </details>
