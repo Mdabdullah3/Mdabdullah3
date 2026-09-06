@@ -52,7 +52,7 @@ Building production web apps & Telegram Mini Apps with Next.js 16, TypeScript, T
 <tr>
 <td><b>Oct 2023 – Nov 2025</b></td>
 <td>
-<b>Full Stack Developer</b> @ <b>I Tech Hut</b> <i>(Freelance)</i><br/>
+<b>Full Stack Developer</b> @ <b>I Tech</b> <i>(Freelance)</i><br/>
 Delivered responsive apps for European clients using React, Next.js, Vue.js & Laravel — 30%+ page load improvement.
 </td>
 </tr>
