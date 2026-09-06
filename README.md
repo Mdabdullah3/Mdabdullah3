@@ -19,14 +19,14 @@
 
 ### 👋 About Me
 
-I'm a **Full Stack Developer** with **2.5+ years of production experience** shipping React & Next.js apps, headless CMS builds, Shopify storefronts, and **Telegram Mini Apps with TON Wallet integration**. Currently at **Most Lab**, previously delivered client work across **Denmark & Europe**.
+I'm a **Full Stack Developer** with **3+ years of production experience** shipping React & Next.js apps, headless CMS builds, Shopify storefronts, and **Telegram Mini Apps with TON Wallet integration**. Currently at **Most Lab**, previously delivered client work across **Denmark & Europe**.
 
 ```yaml
 name: Md Abdullah
 role: Full Stack Developer (MERN)
 based_in: Dhaka, Bangladesh
 education: B.Sc CSE — University of South Asia
-currently_building: Telegram Mini Apps + TON Wallet products
+currently_building: Telegram Mini Apps + Shopify Store
 award: Web Development Asset, Skill Competition 2023
 ```
 
@@ -40,7 +40,7 @@ award: Web Development Asset, Skill Competition 2023
 | 🏢 | Full Stack Dev @ **Most Lab** |
 | 🌍 | Clients in Denmark & Europe |
 | 🛒 | Multi-vendor eCommerce builder |
-| 🤖 | Telegram SDK · TON Wallet |
+| 🤖 | Telegram Mini Apps · Shopify Store |
 | 🏆 | Skill Competition Award '23 |
 | 📫 | mdabdullah.dev@gmail.com |
 
@@ -66,8 +66,8 @@ Shipping production apps & Telegram Mini Apps with **Next.js 16 · TypeScript ·
 <td><b>2023 — 2025</b></td>
 <td>
 
-**Full Stack Developer** · I Tech Hut <sub><i>Freelance</i></sub><br/>
-Delivered apps for clients in **Denmark & Europe** (bookt.dk, vestornet.com) using React, Next.js, Vue.js & Laravel. Cut page load time by **30%+** via code‑splitting & lazy loading. Extended a web platform to **React Native**.
+**Full Stack Developer** · I Tech <sub><i>Freelance</i></sub><br/>
+Delivered apps for clients in **Denmark & Europe** Worked on React, Next.js, Vue.js & Laravel. Cut page load time by **30%+** via code‑splitting & lazy loading. Extended a web platform to **React Native**.
 
 </td>
 </tr>
