@@ -137,7 +137,7 @@
 
   <!-- stats strip -->
   <g font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="12" fill="#7a6f96">
-    <text x="60" y="320" font-weight="700" fill="#e4dcf4">2.5+ <tspan fill="#7a6f96" font-weight="400">YRS EXPERIENCE</tspan></text>
+    <text x="60" y="320" font-weight="700" fill="#e4dcf4">3+ <tspan fill="#7a6f96" font-weight="400">YRS EXPERIENCE</tspan></text>
     <line x1="185" y1="308" x2="185" y2="320" stroke="#2a2044"/>
     <text x="200" y="320" font-weight="700" fill="#e4dcf4">20+ <tspan fill="#7a6f96" font-weight="400">PROJECTS</tspan></text>
     <line x1="305" y1="308" x2="305" y2="320" stroke="#2a2044"/>
