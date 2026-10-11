@@ -343,8 +343,6 @@ Multi-vendor marketplace with complete vendor dashboards and order management.
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdabdullah3&layout=compact&hide_border=true&bg_color=0B0E13&title_color=B4F04C&text_color=9AA6B2&langs_count=8" alt="top languages"/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mdabdullah3/Mdabdullah3/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mdabdullah3/Mdabdullah3/output/github-contribution-grid-snake.svg" />
