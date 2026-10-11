@@ -1,203 +1,205 @@
-::: {align="center"}
-`<img src="assets/banner.svg" width="100%" alt="Noman — CTO & Software Engineer" />`{=html}
+<div align="center">
+<img src="assets/banner.svg" width="100%" alt="Md Abdullah — Full Stack Developer" />
+</div>
 
-# Hi, I'm Noman 👋
+<div align="center">
 
-### CTO & Software Engineer · Full-Stack Development · Technical Project Delivery
+<img src="https://komarev.com/ghpvc/?username=Mdabdullah3&color=00C7B7&style=flat-square&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/Mdabdullah3?style=flat-square&color=00C7B7&labelColor=0d1117&label=FOLLOWERS" alt="followers"/>
+<img src="https://img.shields.io/github/stars/Mdabdullah3?style=flat-square&color=0088CC&labelColor=0d1117&label=STARS" alt="stars"/>
+<img src="https://img.shields.io/badge/OPEN_TO-WORK-00F0D1?style=flat-square&labelColor=0d1117" alt="open to work"/>
 
-I build and deliver web products end to end --- from client discussions
-and requirements to development, deployment, and team coordination.
+</div>
 
-`<img src="https://img.shields.io/badge/FOCUS-Full--Stack%20Development-00C7B7?style=for-the-badge&labelColor=0D1117" alt="Full Stack Development"/>`{=html}
-`<img src="https://img.shields.io/badge/ROLE-CTO%20%26%20Software%20Engineer-0088CC?style=for-the-badge&labelColor=0D1117" alt="CTO & Software Engineer"/>`{=html}
-`<img src="https://img.shields.io/badge/OPEN_TO-Agency%20Partnerships-00F0D1?style=for-the-badge&labelColor=0D1117" alt="Agency partnerships"/>`{=html}
+<img src="assets/divider.svg" width="100%"/>
 
-`<img src="assets/divider.svg" width="100%" alt="divider"/>`{=html}
-:::
-
-## 👨‍💻 About Me
-
-I'm a hands-on **CTO & Software Engineer at IT Services BD**, combining
-software engineering with client communication, technical planning, and
-team leadership.
-
-I work across the full project lifecycle: discussing business goals with
-clients, translating requirements into technical plans, building and
-reviewing software, coordinating the team, and overseeing delivery.
-
-``` yaml
-name: Noman
-role: CTO & Software Engineer
-company: IT Services BD
-based_in: Dhaka, Bangladesh
-focus:
-  - Full-stack web development
-  - Technical leadership and project delivery
-  - Client communication and requirement analysis
-  - Agency partnerships and white-label delivery
-```
-
-## ⚡ What I Do
-
-```{=html}
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-### 🧩 Full-Stack Development
+<td width="60%" valign="top">
 
--   Web applications and business platforms
--   Responsive frontend interfaces
--   Backend APIs and database integration
--   eCommerce and custom web solutions
+### 👋 About Me
 
-```{=html}
+I'm a **Full Stack Developer** with **3+ years of production experience** shipping React & Next.js apps, headless CMS builds, Shopify storefronts, and **Telegram Mini Apps with TON Wallet integration**. Currently at **Most Lab**, previously delivered client work across **Denmark & Europe**.
+
+```yaml
+name: Md Abdullah
+role: Full Stack Developer (MERN)
+based_in: Dhaka, Bangladesh
+education: B.Sc CSE — University of South Asia
+currently_building: Telegram Mini Apps + Shopify Store
+award: Web Development Asset, Skill Competition 2023
+```
+
 </td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-### 🚀 Technical Delivery
+<td width="40%" valign="top">
 
--   Client discovery and requirement analysis
--   Technical planning and architecture
--   Team coordination and code reviews
--   Testing, deployment, and improvements
+### ⚡ Quick Facts
 
-```{=html}
+| | |
+|---|---|
+| 🏢 | Full Stack Dev @ **Most Lab** |
+| 🌍 | Clients in Denmark & Europe |
+| 🛒 | Multi-vendor eCommerce builder |
+| 🤖 | Telegram Mini Apps · Shopify Store |
+| 🏆 | Skill Competition Award '23 |
+| 📫 | mdabdullah.dev@gmail.com |
+
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 </table>
-```
-## 🛠️ Tech Stack
 
-::: {align="center"}
-**Frontend**
+<img src="assets/divider.svg" width="100%"/>
 
-`<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,redux,tailwind,sass" alt="Frontend technologies"/>`{=html}
+### 💼 Experience Timeline
 
-**Backend & Databases**
+<table>
+<tr>
+<td width="18%"><b>2026 — Present</b></td>
+<td width="82%">
 
-`<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,mysql,postgres,supabase,firebase" alt="Backend and database technologies"/>`{=html}
+**Full Stack Developer** · Most Lab <sub><i>Full-time</i></sub><br/>
+Shipping production apps & Telegram Mini Apps with **Next.js 16 · TypeScript · Tailwind**, owning frontend architecture end‑to‑end. Integrating **Sanity CMS** (schema design, GROQ, live preview) and **TON Wallet**.
 
-**Tools & Platforms**
+</td>
+</tr>
+<tr>
+<td><b>2023 — 2025</b></td>
+<td>
 
-`<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel,netlify" alt="Tools and platforms"/>`{=html}
-:::
+**Full Stack Developer** · I Tech <sub><i>Freelance</i></sub><br/>
+Delivered apps for clients in **Denmark & Europe** Worked on React, Next.js, Vue.js & Laravel. Cut page load time by **30%+** via code‑splitting & lazy loading. Extended a web platform to **React Native**.
 
-**Additional experience:** Shopify/Liquid, WordPress, WooCommerce, REST
-APIs, authentication, and third-party integrations.
+</td>
+</tr>
+<tr>
+<td><b>2024 — 2025</b></td>
+<td>
 
-## 💼 Experience
+**Frontend Developer** · Bit Encrypt It <sub><i>Freelance</i></sub><br/>
+Built multi‑vendor eCommerce & blog platforms from scratch (readyhow.com, etoilebd.com) — full vendor dashboards, MongoDB data modeling, lazy‑loaded performance gains.
 
-### CTO & Software Engineer · IT Services BD
+</td>
+</tr>
+</table>
 
--   Lead projects from client discussions and requirement analysis
-    through development, deployment, and handover.
--   Build web applications using modern frontend and backend
-    technologies.
--   Coordinate developers and teammates across design, development, SEO,
-    and digital marketing.
--   Guide technical decisions, review implementations, and help maintain
-    delivery quality and timelines.
--   Build long-term relationships with businesses and agencies that need
-    dependable development capacity.
+<img src="assets/divider.svg" width="100%"/>
 
-### Full-Stack Developer · I Tech Hut
+### 🛠️ Tech Stack
 
-*Freelance · Oct 2023 -- Nov 2025*
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vuejs,redux,tailwind,html,css,nodejs,express,mongodb,mysql,firebase,git,figma,postman,vercel,netlify&theme=dark" alt="skills"/>
+</div>
 
--   Delivered client projects using Laravel, React, Vue.js, PHP, and
-    MySQL.
--   Worked across frontend interfaces, backend functionality, database
-    integration, and project improvements.
+<div align="center">
 
-### Full-Stack Developer · Bit Encrypt It
+<img src="https://img.shields.io/badge/Telegram_Mini_App-0d1117?style=for-the-badge&logo=telegram&logoColor=00C7B7" alt="telegram"/>
+<img src="https://img.shields.io/badge/TON_Wallet-0d1117?style=for-the-badge&logo=ton&logoColor=0088CC" alt="ton"/>
+<img src="https://img.shields.io/badge/Sanity_CMS-0d1117?style=for-the-badge&logo=sanity&logoColor=00F0D1" alt="sanity"/>
+<img src="https://img.shields.io/badge/Shopify-0d1117?style=for-the-badge&logo=shopify&logoColor=00C7B7" alt="shopify"/>
+<img src="https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=0088CC" alt="react native"/>
 
-*Aug 2024 -- Feb 2025*
+</div>
 
--   Worked on a multi-vendor eCommerce platform using Next.js, React,
-    Node.js, and MongoDB.
--   Contributed to storefront functionality, application features, and
-    data-driven workflows.
+<img src="assets/divider.svg" width="100%"/>
 
-### Frontend Developer · Banbox
+### 📊 GitHub Analytics
 
-*Short-term role · 2 months*
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mdabdullah3&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0D1&icon_color=0088CC&text_color=c9d1d9&count_private=true" alt="stats"/>
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mdabdullah3&hide_border=true&background=0D1117&ring=00F0D1&fire=0088CC&currStreakLabel=00F0D1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=5d7488" alt="streak"/>
+</td>
+</tr>
+</table>
 
--   Translated Figma designs into responsive, user-friendly interfaces
-    for an eCommerce project.
--   Implemented UI components and maintained visual consistency across
-    screen sizes.
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdabdullah3&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0D1&text_color=c9d1d9&langs_count=10" alt="top languages"/>
 
-## 📌 Selected Projects
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mdabdullah3&bg_color=0D1117&color=00F0D1&line=0088CC&point=00F0D1&area=true&hide_border=true" alt="activity graph"/>
 
-> Keep only projects you are permitted to share and replace links if
-> needed.
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mdabdullah3&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+</div>
 
-  -----------------------------------------------------------------------------------------
-  Project                 Description             Link
-  ----------------------- ----------------------- -----------------------------------------
-  **Bookt**               Web product / client    [bookt.dk](https://bookt.dk/)
-                          project                 
+### 🐍 Contribution Snake
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mdabdullah3/Mdabdullah3/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mdabdullah3/Mdabdullah3/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Mdabdullah3/Mdabdullah3/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
-  **VestorNet**           Web application /       [vestornet.com](https://vestornet.com/)
-                          client work             
 
-  **ReadyHow**            Web platform            [readyhow.com](https://readyhow.com/)
+<img src="assets/divider.svg" width="100%"/>
 
-  **Rebzigo**             Web product / client    [rebzigo.com](https://rebzigo.com/)
-                          project                 
+### 📌 Featured Work
 
-  **Most Labz**           Web product / project   [mostlabz.xyz](https://mostlabz.xyz/)
-  -----------------------------------------------------------------------------------------
+<table>
+<tr>
+<td width="50%">
 
-## 🤝 Working With Agencies
+**[Ton-NFT-E-commerce-Tma-Apps](https://github.com/Mdabdullah3/Ton-NFT-E-commerce-Tma-Apps-)**
+Telegram Mini App to buy NFTs inside Telegram
+`TypeScript`
 
-I'm interested in building reliable partnerships with digital, creative,
-marketing, and web agencies that need flexible technical delivery
-support.
+</td>
+<td width="50%">
 
--   Clear scope, requirements, and expectations
--   Consistent communication and progress updates
--   Maintainable code and sensible technical decisions
--   Respect for confidentiality and the agency-client relationship
--   Quality checks before handover
+**[XandOS-Analytics-Dashboard](https://github.com/Mdabdullah3/XandOS-Analytics-Dashboard)**
+Analytics dashboard
+`TypeScript`
 
-The goal: help teams deliver great work without adding unnecessary
-complexity.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## 📊 GitHub Activity
+**[Babur-Hat](https://github.com/Mdabdullah3/Babur-Hat)**
+Multi-vendor eCommerce website
+`JavaScript`
 
-```{=html}
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username. -->
-```
-::: {align="center"}
-`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0D1&icon_color=0088CC&text_color=C9D1D9" alt="GitHub stats"/>`{=html}
-`<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=00F0D1&fire=0088CC&currStreakLabel=00F0D1&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=5D7488" alt="GitHub streak"/>`{=html}
+</td>
+<td width="50%">
 
-`<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0D1&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>`{=html}
-:::
+**[Solana-Blinks](https://github.com/Mdabdullah3/Solana-Blinks)**
+Solana blockchain integration
+`TypeScript`
 
-## 🌐 Connect With Me
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-::: {align="center"}
-```{=html}
-<!-- Replace placeholder URLs with your own public profile links. -->
-```
-`<a href="https://www.linkedin.com/" target="_blank">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-0088CC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}`</a>`{=html}
-`<a href="https://github.com/" target="_blank">`{=html}`<img src="https://img.shields.io/badge/GitHub-Projects-0D1117?style=for-the-badge&logo=github&logoColor=00F0D1" alt="GitHub"/>`{=html}`</a>`{=html}
-`<a href="https://itservicesbd.com/" target="_blank">`{=html}`<img src="https://img.shields.io/badge/IT%20Services%20BD-Website-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="IT Services BD"/>`{=html}`</a>`{=html}
-:::
+**[Lazorkit-Sdk](https://github.com/Mdabdullah3/Lazorkit-Sdk)**
+SDK tooling
+`TypeScript`
 
-::: {align="center"}
-`<img src="assets/footer.svg" width="100%" alt="footer"/>`{=html}
-:::
+</td>
+<td width="50%">
+
+**[shopify-theme](https://github.com/Mdabdullah3/shopify-theme)**
+Custom Shopify storefront theme
+`Liquid`
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%"/>
+
+<div align="center">
+
+### 🌐 Let's Connect
+
+<a href="https://abdullahme.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00F0D1" alt="portfolio"/></a>
+<a href="https://www.linkedin.com/in/md-abdullah-848267218/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0088CC" alt="linkedin"/></a>
+<a href="https://medium.com/@mdabdullah.dev"><img src="https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=00F0D1" alt="medium"/></a>
+<a href="mailto:mdabdullah.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=0088CC" alt="gmail"/></a>
+<a href="https://www.instagram.com/abi_abdullah4/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00F0D1" alt="instagram"/></a>
+<a href="https://www.facebook.com/profile.php?id=100039216726900"><img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=0088CC" alt="facebook"/></a>
+
+</div>
+
+<img src="assets/footer.svg" width="100%"/>
