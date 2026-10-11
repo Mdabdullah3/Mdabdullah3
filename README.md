@@ -1,10 +1,10 @@
 <div align="center">
-<img src="assets/banner.svg" width="100%" alt="Md Abdullah — Full Stack Developer" />
+<img src="assets/banner.svg" width="100%" alt="Md Abdullah — Senior Software Engineer" />
 </div>
 
 <div align="center">
 
-<a href="https://abdullahme.vercel.app/"><b>Portfolio</b></a>&nbsp; · &nbsp;<a href="https://www.linkedin.com/in/md-abdullah-848267218/"><b>LinkedIn</b></a>&nbsp; · &nbsp;<a href="https://medium.com/@mdabdullah.dev"><b>Writing</b></a>&nbsp; · &nbsp;<a href="mailto:mdabdullah.dev@gmail.com"><b>Email</b></a>
+<a href="https://www.linkedin.com/in/md-abdullah-848267218/"><b>LinkedIn</b></a>&nbsp; · &nbsp;<a href="https://medium.com/@mdabdullah.dev"><b>Writing</b></a>&nbsp; · &nbsp;<a href="mailto:mdabdullah.dev@gmail.com"><b>Email</b></a>
 
 <br/>
 
@@ -19,31 +19,42 @@
 
 ## Overview
 
+> Senior Software Engineer turning business requirements into **reliable, scalable digital products** — owning the lifecycle from requirement analysis and architecture through implementation, testing, deployment and iteration.
+
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="33%" valign="top">
 
-Full Stack Developer with **3+ years of production experience** building React and Next.js applications, headless CMS platforms, Shopify storefronts, and **Telegram Mini Apps with TON Wallet integration**.
+**Product Engineering**
 
-Currently at **Most Lab**, owning frontend architecture end-to-end. Previously delivered client work across **Denmark and Europe**.
-
-I care about four things: clean code, security, performance, and scalability.
+Scalable web applications with Next.js, React, Node.js and Laravel — built to ship fast without trading away quality.
 
 </td>
-<td width="42%" valign="top">
+<td width="33%" valign="top">
 
-|               |                                               |
-| :------------ | :-------------------------------------------- |
-| **Role**      | Full Stack Developer @ Most Lab               |
-| **Focus**     | Next.js · TypeScript · Node.js                |
-| **Specialty** | Telegram Mini Apps · Shopify                  |
-| **Education** | B.Sc CSE — University of South Asia           |
-| **Award**     | Web Development Asset, Skill Competition 2023 |
-| **Contact**   | mdabdullah.dev@gmail.com                      |
+**Technical Leadership**
+
+Lead developers and cross-functional teams. Own technical decisions, code quality and delivery timelines.
+
+</td>
+<td width="34%" valign="top">
+
+**Client Partnership**
+
+Direct client communication, requirement translation and long-term partnerships with agencies and businesses.
 
 </td>
 </tr>
 </table>
+
+|                 |                                                             |
+| :-------------- | :---------------------------------------------------------- |
+| **Currently**   | Senior Software Engineer @ **IT Services Bangladesh**       |
+| **Core stack**  | Next.js · TypeScript · Node.js · Laravel                    |
+| **Specialized** | Telegram Mini Apps · TON Wallet · Shopify · React Native    |
+| **Education**   | B.Sc in Computer Science — University of South Asia         |
+| **Award**       | Web Development Asset — Skill Competition 2023              |
+| **Reach me**    | [mdabdullah.dev@gmail.com](mailto:mdabdullah.dev@gmail.com) |
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -52,7 +63,7 @@ I care about four things: clean code, security, performance, and scalability.
 <table>
 <tr>
 <td width="24%" valign="middle"><b>Languages</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" height="38" alt="languages"/></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=ts,js,php,html,css&theme=dark" height="38" alt="languages"/></td>
 </tr>
 <tr>
 <td valign="middle"><b>Frontend</b></td>
@@ -60,7 +71,7 @@ I care about four things: clean code, security, performance, and scalability.
 </tr>
 <tr>
 <td valign="middle"><b>Backend</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,graphql&theme=dark" height="38" alt="backend"/></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express,laravel,prisma,graphql&theme=dark" height="38" alt="backend"/></td>
 </tr>
 <tr>
 <td valign="middle"><b>Data</b></td>
@@ -88,47 +99,161 @@ I care about four things: clean code, security, performance, and scalability.
 
 <table>
 <tr>
-<td width="20%" valign="top">
+<td width="30%" valign="top">
 
-`2026 — Present`<br/>
-<sub>FULL-TIME</sub>
+<img src="https://img.shields.io/badge/APR_2026_--_PRESENT-B4F04C?style=flat-square" alt="period"/>
+
+#### IT Services Bangladesh
+
+`Full-time` `Remote`
+
+<sub>Vilniaus, Lithuania · 7 mos</sub>
 
 </td>
-<td width="80%" valign="top">
+<td width="70%" valign="top">
 
-**Full Stack Developer** — Most Lab
+**Senior Software Engineer**
 
-Shipping production apps and Telegram Mini Apps on **Next.js 16, TypeScript and Tailwind**, owning frontend architecture end-to-end. Integrated **Sanity CMS** (schema design, GROQ, live preview) and **TON Wallet** payments.
+Lead end-to-end software development and technical project delivery, working closely with clients and a multidisciplinary team to transform business requirements into reliable, scalable solutions.
+
+- Develop scalable web applications using **React, Next.js, Node.js and Laravel**
+- Communicate with clients to translate business ideas into technical solutions
+- Lead and coordinate developers and cross-functional team members
+- Own project planning, technical decisions, code quality and delivery timelines
+- Build long-term partnerships with agencies and businesses
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="30%" valign="top">
+
+<img src="https://img.shields.io/badge/JAN_2026_--_JUL_2026-B4F04C?style=flat-square" alt="period"/>
+
+#### Most Lab
+
+`Full-time` `Remote`
+
+<sub>Dhaka, Bangladesh · 7 mos</sub>
+
+</td>
+<td width="70%" valign="top">
+
+**Software Engineer**
+
+Full Stack Developer building responsive, user-focused web applications under tight product timelines.
+
+- Rapid product development — high-quality MVPs and full-scale apps from scratch
+- Scalable frontend architecture in **Next.js**, backend services in **Node.js**
+- Collaborate directly with clients to ship functional features on deadline
+- Efficient state management and API integrations for seamless UX
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="30%" valign="top">
+
+<img src="https://img.shields.io/badge/MAY_2026-B4F04C?style=flat-square" alt="period"/>
+
+#### Banbox.com
+
+`Full-time` `On-site`
+
+<sub>Mirpur, Dhaka · 1 mo</sub>
+
+</td>
+<td width="70%" valign="top">
+
+**Frontend Developer**
+
+Worked on Banbox's eCommerce project, translating Figma designs into responsive, user-friendly interfaces.
+
+- Implement UI components from Figma with pixel-accurate fidelity
+- Maintain design consistency across the storefront
+- Deliver a smooth user experience across all device sizes
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="30%" valign="top" rowspan="2">
+
+<img src="https://img.shields.io/badge/OCT_2023_--_AUG_2025-B4F04C?style=flat-square" alt="period"/>
+
+#### iTechHut
+
+`Freelance` `Remote`
+
+<sub>Bangladesh · 1 yr 11 mos</sub>
+
+<br/>
+
+<sub>**Shipped** — VestorNet (Mortgage Network), Bookt (Service Management)</sub>
+
+</td>
+<td width="70%" valign="top">
+
+**React Native Developer** &nbsp;<sub>Jan 2025 — Aug 2025 · 8 mos</sub>
+
+Extended existing web products to mobile platforms.
+
+- Built a React Native app mirroring core web features
+- Integrated APIs for consistent data flow between web and mobile
+- Improved mobile user engagement and app usability
+- Partnered with frontend and backend teams to maintain feature parity
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-`2023 — 2025`<br/>
-<sub>FREELANCE</sub>
+**Frontend Developer** &nbsp;<sub>Oct 2023 — Dec 2024 · 1 yr 3 mos</sub>
 
-</td>
-<td valign="top">
+Built responsive, user-focused web applications.
 
-**Full Stack Developer** — I Tech
-
-Delivered applications for clients across **Denmark and Europe** using React, Next.js, Vue.js and Laravel. Reduced page load time by **30%+** through code-splitting and lazy loading. Extended an existing web platform to **React Native**.
+- Developed **5+ production web applications** using React, Vue.js and Laravel
+- Implemented reusable UI components and responsive layouts
+- Integrated RESTful APIs and authentication systems
+- Improved page load speed by **30%** through frontend optimization
 
 </td>
 </tr>
-<tr>
-<td valign="top">
+</table>
 
-`2024 — 2025`<br/>
-<sub>FREELANCE</sub>
+<table>
+<tr>
+<td width="30%" valign="top">
+
+<img src="https://img.shields.io/badge/AUG_2024_--_FEB_2025-B4F04C?style=flat-square" alt="period"/>
+
+#### Bit Encrypt IT
+
+`Freelance` `Remote`
+
+<sub>Banasree, Dhaka · 7 mos</sub>
+
+<br/>
+
+<sub>**Shipped** — Ready How (Multi-vendor eCommerce)</sub>
 
 </td>
-<td valign="top">
+<td width="70%" valign="top">
 
-**Frontend Developer** — Bit Encrypt It
+**Software Developer**
 
-Built multi-vendor eCommerce and blog platforms from scratch (readyhow.com, etoilebd.com) — complete vendor dashboards, MongoDB data modeling and lazy-loaded performance gains.
+Full-stack work on production-level eCommerce and content platforms.
+
+- Built multi-vendor platforms with **React, Next.js, Node.js and MongoDB**
+- Developed reusable frontend components and integrated RESTful APIs
+- Optimized performance through lazy loading and query optimization
+- Collaborated with designers and stakeholders to deliver features on time
 
 </td>
 </tr>
@@ -151,6 +276,37 @@ Telegram Mini App for buying NFTs without leaving Telegram, wired to TON Wallet.
 </td>
 <td width="50%" valign="top">
 
+### VestorNet
+
+Mortgage network platform connecting lenders and brokers to move deals forward.
+
+`React` `Laravel` `REST API`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### Ready How
+
+Multi-vendor eCommerce platform with vendor dashboards and full order flow.
+
+`Next.js` `Node.js` `MongoDB`
+
+</td>
+<td valign="top">
+
+### Bookt
+
+Service management platform for booking, scheduling and provider operations.
+
+`Vue.js` `Laravel` `MySQL`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 ### [XandOS Analytics](https://github.com/Mdabdullah3/XandOS-Analytics-Dashboard)
 
 Analytics dashboard with real-time data visualization and reporting.
@@ -158,48 +314,19 @@ Analytics dashboard with real-time data visualization and reporting.
 `TypeScript` `Next.js` `Charts`
 
 </td>
-</tr>
-<tr>
 <td valign="top">
 
 ### [Babur Hat](https://github.com/Mdabdullah3/Babur-Hat)
 
-Multi-vendor eCommerce platform with full vendor dashboards and order flow.
+Multi-vendor marketplace with complete vendor dashboards and order management.
 
 `JavaScript` `MERN` `MongoDB`
 
 </td>
-<td valign="top">
-
-### [Solana Blinks](https://github.com/Mdabdullah3/Solana-Blinks)
-
-Blockchain actions and transaction links built on the Solana network.
-
-`TypeScript` `Solana` `Web3`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### [Lazorkit SDK](https://github.com/Mdabdullah3/Lazorkit-Sdk)
-
-Developer SDK tooling with typed APIs and a clean integration surface.
-
-`TypeScript` `SDK`
-
-</td>
-<td valign="top">
-
-### [Shopify Theme](https://github.com/Mdabdullah3/shopify-theme)
-
-Custom storefront theme focused on conversion and Core Web Vitals.
-
-`Liquid` `Shopify`
-
-</td>
 </tr>
 </table>
+
+<sub>**More repositories** — <a href="https://github.com/Mdabdullah3/Solana-Blinks">Solana Blinks</a> · <a href="https://github.com/Mdabdullah3/Lazorkit-Sdk">Lazorkit SDK</a> · <a href="https://github.com/Mdabdullah3/shopify-theme">Shopify Theme</a></sub>
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -218,21 +345,11 @@ Custom storefront theme focused on conversion and Core Web Vitals.
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdabdullah3&layout=compact&hide_border=true&bg_color=0B0E13&title_color=B4F04C&text_color=9AA6B2&langs_count=8" alt="top languages"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mdabdullah3&bg_color=0B0E13&color=9AA6B2&line=B4F04C&point=D2F97A&area=true&area_color=B4F04C&title_color=B4F04C&hide_border=true" alt="activity graph"/>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mdabdullah3&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies"/>
-</div>
-
-<details>
-<summary><b>Contribution Snake</b></summary>
-<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mdabdullah3/Mdabdullah3/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mdabdullah3/Mdabdullah3/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Mdabdullah3/Mdabdullah3/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
-</details>
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -240,7 +357,6 @@ Custom storefront theme focused on conversion and Core Web Vitals.
 
 <div align="center">
 
-<a href="https://abdullahme.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B0E13?style=for-the-badge&logo=firefox&logoColor=B4F04C" alt="portfolio"/></a>
 <a href="https://www.linkedin.com/in/md-abdullah-848267218/"><img src="https://img.shields.io/badge/LinkedIn-0B0E13?style=for-the-badge&logo=linkedin&logoColor=B4F04C" alt="linkedin"/></a>
 <a href="https://medium.com/@mdabdullah.dev"><img src="https://img.shields.io/badge/Medium-0B0E13?style=for-the-badge&logo=medium&logoColor=B4F04C" alt="medium"/></a>
 <a href="mailto:mdabdullah.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-0B0E13?style=for-the-badge&logo=gmail&logoColor=B4F04C" alt="gmail"/></a>
