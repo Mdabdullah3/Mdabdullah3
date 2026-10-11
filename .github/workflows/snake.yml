@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: Mdabdullah3
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#7FD63A&color_dots=#ebedf0,#dbf3b3,#c2ea7e,#9ce04f,#7FD63A
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#B4F04C&color_dots=#161b22,#2b3a16,#4f7320,#86b32d,#B4F04C
 
       - name: Push output to "output" branch
         uses: crazy-max/ghaction-github-pages@v4

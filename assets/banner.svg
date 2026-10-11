@@ -1,70 +1,93 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0NWE3MTkzMS0wMWY0LTRmNjQtODQyZi0xMzk3YzAyNjhmM2UAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaM1u03jUDUF7ofsGhzcxvZsAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozOGY0MTkzYS02YWQ3LTQ3ZmItOWQxYi0yNDcwMWYxNzNhYmJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoLOohGHcrTTxW+Z6D4F6sWwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg9+F0qiMDLYKk4XZH/dP8XbEAaElEbj4St6DwDHU2YtCkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHK+e6P58hbUsTPRpqyxXzcAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAheHWIpq7KqEeX11CU2QH9+1VSKziwGN9wHo7YwVf6sWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjQ1YTcxOTMxLTAxZjQtNGY2NC04NDJmLTEzOTdjMDI2OGYzZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmNlNjc3MjdiLWNmZjAtNDVmMC05ZDZmLWU5OWM5ODdiNTliOXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCD34XSqIwMtgqThdkf90/xdsQBoSURuPhK3oPAMdTZi0KJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggHYfEOyDayD0ZqoWhaHpxykYK0vtRoC+OLukyAWFs59iiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggOpnOHuCTMAPk17EtqEbMCYsI5hi7FNTtXz2tsrC7yDB0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQC7g5q7p92eaQzidVV/N+WYEvzpEaHDgVLqPJPFlW424Cv25QOzRE8JUC1MWKoP0QjbDnuAZqtRK7hJge+oJC3U=</c2pa:manifest></metadata>
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600&amp;family=Space+Grotesk:wght@400;500&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Sora:wght@300;400;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap');
     </style>
 
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#050409"/>
-      <stop offset="100%" stop-color="#0c0914"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A0D12"/>
+      <stop offset="0.6" stop-color="#10151C"/>
+      <stop offset="1" stop-color="#161C25"/>
     </linearGradient>
-    <linearGradient id="auroraGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#A78BFA"/>
-      <stop offset="55%" stop-color="#F472B6"/>
-      <stop offset="100%" stop-color="#FBBF24"/>
+
+    <linearGradient id="panel" x1="870" y1="300" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9CE03C"/>
+      <stop offset="1" stop-color="#C8F76A"/>
     </linearGradient>
-    <linearGradient id="shimmerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B4F04C"/>
+      <stop offset="1" stop-color="#B4F04C" stop-opacity="0.15"/>
     </linearGradient>
+
     <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.16"/>
-      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+      <stop offset="0" stop-color="#B4F04C" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#B4F04C" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="vignette" cx="50%" cy="50%" r="75%">
-      <stop offset="55%" stop-color="#000000" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0.5"/>
-    </radialGradient>
-    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="60"/>
+
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="80"/>
     </filter>
-    <pattern id="dotGrid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="1" fill="#1a1428"/>
+
+    <!-- bold motif used inside the lime panel -->
+    <pattern id="chevronBold" width="112" height="54" patternUnits="userSpaceOnUse">
+      <path d="M-56 43 L-28 13 L0 43 L28 13 L56 43 L84 13 L112 43 L140 13 L168 43" fill="none" stroke="#1A202B" stroke-width="13"/>
     </pattern>
-    <clipPath id="nameClip">
-      <text x="600" y="132" font-family="'Sora','Segoe UI',sans-serif" font-size="52" font-weight="600" letter-spacing="4" text-anchor="middle">MD ABDULLAH</text>
+
+    <!-- whisper-thin motif used as texture on the dark side -->
+    <pattern id="chevronFaint" width="112" height="54" patternUnits="userSpaceOnUse">
+      <path d="M-56 43 L-28 13 L0 43 L28 13 L56 43 L84 13 L112 43 L140 13 L168 43" fill="none" stroke="#B4F04C" stroke-width="2"/>
+    </pattern>
+
+    <linearGradient id="textureFade" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="textureMask">
+      <rect width="900" height="300" fill="url(#textureFade)"/>
+    </mask>
+
+    <clipPath id="frame">
+      <rect width="1200" height="300" rx="20"/>
     </clipPath>
   </defs>
 
-  <!-- base -->
-  <rect width="1200" height="300" rx="22" fill="url(#bgGrad)"/>
-  <rect width="1200" height="300" rx="22" fill="url(#dotGrid)" opacity="0.35"/>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
 
-  <!-- single soft glow, off-center -->
-  <circle cx="920" cy="60" r="260" fill="url(#glow)" filter="url(#softBlur)"/>
+    <!-- faint texture on the dark side -->
+    <g mask="url(#textureMask)" opacity="0.055">
+      <rect width="900" height="300" fill="url(#chevronFaint)"/>
+    </g>
 
-  <!-- name -->
-  <text x="600" y="132" font-family="'Sora','Segoe UI',sans-serif" font-size="52" font-weight="600" letter-spacing="4" fill="#f5f3f7" text-anchor="middle">MD ABDULLAH</text>
+    <circle cx="880" cy="150" r="300" fill="url(#glow)" filter="url(#soft)"/>
 
-  <!-- shimmer sweep, clipped to the name -->
-  <rect x="0" y="80" width="130" height="80" fill="url(#shimmerGrad)" clip-path="url(#nameClip)" transform="skewX(-20)">
-    <animate attributeName="x" values="0;1200" dur="5s" begin="0.8s" repeatCount="indefinite"/>
-  </rect>
+    <!-- lime panel, angled -->
+    <polygon points="930,0 1200,0 1200,300 870,300" fill="url(#panel)"/>
+    <polygon points="930,0 1200,0 1200,300 870,300" fill="url(#chevronBold)" opacity="0.92"/>
+    <line x1="930" y1="0" x2="870" y2="300" stroke="#0A0D12" stroke-width="2" opacity="0.45"/>
 
-  <!-- thin accent line -->
-  <rect x="566" y="154" width="68" height="2" rx="1" fill="url(#auroraGrad)"/>
+    <!-- status pill -->
+    <rect x="72" y="54" width="214" height="30" rx="15" fill="#B4F04C" fill-opacity="0.07" stroke="#B4F04C" stroke-opacity="0.3" stroke-width="1"/>
+    <circle cx="92" cy="69" r="4" fill="#B4F04C">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="106" y="73.5" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" font-weight="500" letter-spacing="2.6" fill="#B4F04C">AVAILABLE FOR WORK</text>
 
-  <!-- subtitle, with a single colored emphasis -->
-  <text x="600" y="190" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="18" text-anchor="middle" fill="#9c92b4">
-    Full Stack Developer <tspan fill="#867ba0">·</tspan> Telegram Mini Apps &amp; <tspan fill="url(#auroraGrad)" font-weight="600">Shopify Specialist</tspan>
-  </text>
+    <!-- name -->
+    <text x="70" y="162" font-family="'Sora','Segoe UI',system-ui,sans-serif" font-size="60" font-weight="600" letter-spacing="2" fill="#F4F8EE">MD ABDULLAH</text>
 
-  <!-- minimal tech list, plain text, no boxes -->
-  <text x="600" y="230" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="11.5" letter-spacing="3" text-anchor="middle" fill="#4d456a">REACT · NEXT.JS · NODE.JS · MONGODB · SHOPIFY · TELEGRAM · TON</text>
+    <!-- accent rule -->
+    <rect x="72" y="184" width="120" height="3" rx="1.5" fill="url(#rule)"/>
 
-  <!-- thin outer frame -->
-  <rect x="1.5" y="1.5" width="1197" height="297" rx="20" fill="none" stroke="#221a36" stroke-width="1"/>
+    <!-- role -->
+    <text x="72" y="220" font-family="'Sora','Segoe UI',system-ui,sans-serif" font-size="19" font-weight="400" fill="#9AA6B2">
+      Full Stack Developer <tspan fill="#39462C">/</tspan> <tspan fill="#B4F04C" font-weight="600">Telegram Mini Apps &amp; Shopify</tspan>
+    </text>
 
-  <rect width="1200" height="300" rx="22" fill="url(#vignette)"/>
+    <!-- meta strip -->
+    <text x="72" y="256" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" letter-spacing="2.6" fill="#4C5663">3+ YEARS · NEXT.JS · TYPESCRIPT · NODE.JS · TON · DHAKA, BD</text>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="19.25" fill="none" stroke="#202834" stroke-width="1.5"/>
 </svg>
